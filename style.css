@@ -123,6 +123,7 @@ h1 {
 .sobre-paragrafo {
     text-align: center;
     font-size: 1rem;
+    text-decoration: none;
 }
 
 /* Projetos */
@@ -157,6 +158,12 @@ h1 {
     gap: 2rem;
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.projeto-link {
+    text-decoration: none;
+    color: #d8f8ff;
+    list-style: none;
 }
 
 .projeto-card {
